@@ -1,0 +1,22 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: #808080;
+}
+
+.calculator {
+    background-color: #fff;
+    margin: 100px;
+    padding: 50px;
+    text-align: center;
+}
+
+.calculator h1 {
+    margin: 20px auto;
+}
+
+.btn-tray {
+    display: inline;
+}
